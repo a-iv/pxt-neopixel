@@ -12,6 +12,8 @@
   "NeoPixelMode.RGBW|block": "RGB+W",
   "NeoPixelMode.RGB_RGB|block": "RGB (RGB тип)",
   "NeoPixelMode.RGB|block": "RGB (GRB тип)",
+  "neopixel.HSL.rotateHue|block": "HSL формат: сместить цвета тона %hsl| на %offset",
+  "neopixel.HSL.toRGB|block": "%hsl|в RGB формат",
   "neopixel.Strip.clear|block": "%strip|очистить",
   "neopixel.Strip.easeBrightness|block": "%strip|затемнить",
   "neopixel.Strip.length|block": "%strip|штук",
@@ -32,6 +34,5 @@
   "neopixel.rgb|block": "RGB формат: красный %red|зеленый %green|голубой %blue",
   "neopixel.Strip.setMatrixColor|block": "%strip|установить цвет матрицы в позиции x %x|y %y|на %rgb=neopixel_colors",
   "neopixel.Strip.setMatrixWidth|block": "%strip|установить ширину светодиодной матрицы %width",
-  "neopixel|block": "neopixel",
   "{id:category}Neopixel": "NeoPixel"
 }
